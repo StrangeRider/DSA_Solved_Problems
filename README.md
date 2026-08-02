@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

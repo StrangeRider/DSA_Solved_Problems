@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0050-powx-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0058-length-of-last-word) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

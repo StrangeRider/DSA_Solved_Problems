@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |

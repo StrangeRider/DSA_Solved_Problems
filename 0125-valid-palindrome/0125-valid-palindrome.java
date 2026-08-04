@@ -4,7 +4,7 @@ class Solution {
         String newStr = "";
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
-            if(ch >= 'a' && ch <='z' || ch>='0' && ch<='9'){  //Character.isLetterOrDigit(ch)
+            if(Character.isLetterOrDigit(ch)){  //Character.isLetterOrDigit(ch)
                 newStr+=ch;
             }
         }

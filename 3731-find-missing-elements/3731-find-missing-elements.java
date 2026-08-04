@@ -1,0 +1,14 @@
+class Solution {
+    public List<Integer> findMissingElements(int[] nums) {
+        List<Integer> arr = new ArrayList<>();
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length-1;i++){
+            if(nums[i]!=nums[i+1]-1){
+                for(int j=nums[i]+1;j<nums[i+1];j++){
+                    arr.add(j);
+                }
+            }
+        }
+        return arr;
+    }
+}

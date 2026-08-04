@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/3731-find-missing-elements) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -65,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

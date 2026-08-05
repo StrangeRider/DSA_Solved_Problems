@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |

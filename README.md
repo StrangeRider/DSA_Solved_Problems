@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

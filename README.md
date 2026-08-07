@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0392-is-subsequence) |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0383-ransom-note) |
 | [3731-find-missing-elements](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/StrangeRider/DSA_Solved_Problems/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

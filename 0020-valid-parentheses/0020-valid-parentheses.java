@@ -19,7 +19,8 @@ class Solution {
             }else{
                 if(stack.isEmpty()) return false;
                 else{
-                    if(checkPair(stack.peek(),ch)){
+                    char top = stack.peek();
+                    if(checkPair(top,ch)){
                         stack.pop();
                     }else{
                         return false;
@@ -27,8 +28,7 @@ class Solution {
                 } 
             }
         }
-        if(stack.isEmpty()) return true;
-        else return false;
+        return stack.isEmpty();
 
     }
 }
